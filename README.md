@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Harshit Hirpara 👋
 
-<!--
-**Harshit2906/Harshit2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pre-Final Year Computer Science Undergraduate** at **IIT Hyderabad**
 
-Here are some ideas to get you started:
+I'm passionate about low-level software engineering, hardware-software interfaces, and algorithmic problem solving. Most of my work revolves around building performant systems and optimizing runtime execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Core Focus Areas
+- **Systems & Architecture:** CPU design, cache optimizations, concurrency, memory management.
+- **Compilers:** Language runtimes, program analysis, intermediate representations, intermediate code optimization.
+- **Competitive Programming:** Algorithm design, data structures, and computational complexity.
+
+---
+
+### Tech Stack & Tools
+- **Languages:** C++, C, Rust, Python,RISC-V Assembly
+- **Tooling & Build:** LLVM, GCC, Make/CMake, Git, GDB, Linux/Unix Internals
+- **Concepts:** Multi-threading, OS Internals, Computer Organization, Dynamic Programming, Graph Theory
+
+---
+
+### Connect with Me
+- **LinkedIn:** [linkedin.com/in/harshit-hirpara-128b0031b](https://linkedin.com)
+- **Codeforces:** [codeforces.com/profile/COdERBRO513](https://codeforces.com)
+- **Email:** cs24btech11031@iith.ac.in
